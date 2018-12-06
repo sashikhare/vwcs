@@ -20,7 +20,7 @@ class CourseFourPageBodyDetails_Third extends React.Component {
     };
   }
   componentDidMount() {
-    fetch('http://localhost:3000/courseFour_api')
+    fetch('http://13.232.240.4/courseFour_api')
       .then(response => response.json())
       .then(data => this.setState({ date: data, isLoading: false }))
       .catch(error => this.setState({ error, isLoading: false }));
