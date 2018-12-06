@@ -20,7 +20,7 @@ class CourseSevenPageBodyDetails_Third extends React.Component {
     };
   }
   componentDidMount() {
-    fetch('http://13.232.240.4/courseSeven_api')
+    fetch('http://vwcs.in/courseSeven_api')
       .then(response => response.json())
       .then(data => this.setState({ date: data, isLoading: false }))
       .catch(error => this.setState({ error, isLoading: false }));
