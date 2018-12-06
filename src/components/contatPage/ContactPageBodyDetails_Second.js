@@ -88,7 +88,7 @@ class ContactPageBodyDetails_Second extends React.Component {
                 <div class="contact-details">
                   <h5>+91 (961) 9123 321</h5>
                   <h5>+91 (900) 4935 111</h5>
-                  <p>Mon to Sat 9am to 6 pm</p>
+                  <p>Mon to Sat 9am to 5 pm</p>
                 </div>
               </div>
               <div class="single-contact-address d-flex flex-row">
