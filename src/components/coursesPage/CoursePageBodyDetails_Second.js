@@ -45,7 +45,7 @@ class CoursesPageBodyDetails_Second extends React.Component {
                     <span>Duration: 5 Days</span>
                   </p>
                   <span>
-                    <h4>₹55000</h4>
+                    <h4>₹64900</h4>
                   </span>
                 </div>
               </div>
@@ -75,7 +75,7 @@ class CoursesPageBodyDetails_Second extends React.Component {
                     <span>Duration: 5 Days</span>
                   </p>
                   <span>
-                    <h4>₹60000</h4>
+                    <h4>₹70800</h4>
                   </span>
                 </div>
               </div>
@@ -102,7 +102,7 @@ class CoursesPageBodyDetails_Second extends React.Component {
                     <span>Duration: 5 Days</span>
                   </p>
                   <span>
-                    <h4>₹60000</h4>
+                    <h4>₹70800</h4>
                     <h4>$1000</h4>
                   </span>
                 </div>
@@ -134,7 +134,7 @@ class CoursesPageBodyDetails_Second extends React.Component {
                     <span>Duration: 5 Days</span>
                   </p>
                   <span>
-                    <h4>₹65000</h4>
+                    <h4>₹76700</h4>
                     <h4>$1200</h4>
                   </span>
                 </div>
@@ -162,7 +162,7 @@ class CoursesPageBodyDetails_Second extends React.Component {
                     <span>Duration: 5 Days</span>
                   </p>
                   <span>
-                    <h4>₹55000</h4>
+                    <h4>₹64900</h4>
                   </span>
                 </div>
               </div>
@@ -192,7 +192,7 @@ class CoursesPageBodyDetails_Second extends React.Component {
                     <span>Duration: 5 Days</span>
                   </p>
                   <span>
-                    <h4>₹60000</h4>
+                    <h4>₹70800</h4>
                     <h4>$1000</h4>
                   </span>
                 </div>
@@ -224,7 +224,7 @@ class CoursesPageBodyDetails_Second extends React.Component {
                     <span>Duration: 5 Days</span>
                   </p>
                   <span>
-                    <h4>₹65000</h4>
+                    <h4>₹76700</h4>
                     <h4>$1200</h4>
                   </span>
                 </div>
@@ -249,7 +249,7 @@ class CoursesPageBodyDetails_Second extends React.Component {
                     <span>Duration: 5 Days</span>
                   </p>
                   <span>
-                    <h4>₹10000</h4>
+                    <h4>₹11800</h4>
                   </span>
                 </div>
               </div>
