@@ -1,9 +1,13 @@
 From ubutu user
-
-ssh -i /path_to_key/my_key.pem ubuntu@public_dns_name
+ssh -i /path_to_key/my_key.pem ubuntu@ec2-13-232-240-4.ap-south-1.compute.amazonaws.com
 
 From Fedora
+ssh -i /path_to_key/my_key.pem fedora@ec2-13-232-240-4.ap-south-1.compute.amazonaws.com
 
-ssh -i /path_to_key/my_key.pem fedora@public_dns_name
+Build project
+yarn build
+
+to start website
+sudo pm2 start ./bin/www
 
 
