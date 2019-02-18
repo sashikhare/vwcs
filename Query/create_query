@@ -1,0 +1,35 @@
+CREATE TABLE course_four (
+    Id int NOT NULL AUTO_INCREMENT,
+    Course_Id int,
+    Course_Start_Date date,
+    Course_End_Date date,
+    Location varchar(255),
+    PRIMARY KEY (Id)
+);
+
+CREATE TABLE course_seven (
+    Id int NOT NULL AUTO_INCREMENT,
+    Course_Id int,
+    Course_Start_Date date,
+    Course_End_Date date,
+    Location varchar(255),
+    PRIMARY KEY (Id)
+);
+
+CREATE TABLE course_six (
+    Id int NOT NULL AUTO_INCREMENT,
+    Course_Id int,
+    Course_Start_Date date,
+    Course_End_Date date,
+    Location varchar(255),
+    PRIMARY KEY (Id)
+);
+
+CREATE TABLE course_three (
+    Id int NOT NULL AUTO_INCREMENT,
+    Course_Id int,
+    Course_Start_Date date,
+    Course_End_Date date,
+    Location varchar(255),
+    PRIMARY KEY (Id)
+);

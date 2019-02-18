@@ -38,7 +38,7 @@ class HomePageBodyDetails_Second extends React.Component {
               <div class="single-feature">
                 <Link to="/contact">
                   <div class="title">
-                    <h4>IDAC Wellsharp Certified</h4>
+                    <h4>IADC Wellsharp Certified</h4>
                   </div>
                 </Link>
                 <div class="desc-wrap">
