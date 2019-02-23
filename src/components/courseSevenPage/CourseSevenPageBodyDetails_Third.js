@@ -24,6 +24,11 @@ class CourseSevenPageBodyDetails_Third extends React.Component {
       .then(response => response.json())
       .then(data => this.setState({ date: data, isLoading: false }))
       .catch(error => this.setState({ error, isLoading: false }));
+      
+      fetch('http://www.vwcs.in/courseSeven_api')
+      .then(response => response.json())
+      .then(data => this.setState({ date: data, isLoading: false }))
+      .catch(error => this.setState({ error, isLoading: false }));
   }
 
   render() {
