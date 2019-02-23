@@ -39,9 +39,9 @@ class ContactPageBodyDetails_Third extends React.Component {
         <div class="container">
           <div class="map-location">
             <GoogleMapReact
-              apiKey={{key: 'AIzaSyDXG7p-SBffjB83tYH_BbSfdjq01ruPKW0'}}
-              defaultCenter={this.props.center}
-              defaultZoom={this.props.zoom}
+              apiKey={'AIzaSyDXG7p-SBffjB83tYH_BbSfdjq01ruPKW0'}
+              center={this.props.center}
+              zoom={this.props.zoom}
               onGoogleApiLoaded={({ map, maps }) => this.renderMarkers(map, maps)}
             />
           </div>
