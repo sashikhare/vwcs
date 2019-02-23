@@ -27,7 +27,7 @@ class CourseSevenPageBodyDetails_Second extends React.Component {
                   </h4>
                   <p>
                     <h5 align="left" class="header-gap">
-                      IADC - Combined Surface & Subsea Stack: Fundamental & Supervisory Level
+                      IDAC - Combined Surface & Subsea Stack: Fundamental & Supervisory Level
                     </h5>
                     <h6 align="left">Duration : 5 Days</h6>
                   </p>

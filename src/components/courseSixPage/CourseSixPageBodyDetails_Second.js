@@ -27,7 +27,7 @@ class CourseSixPageBodyDetails_Second extends React.Component {
                   </h4>
                   <p>
                     <h5 align="left" class="header-gap">
-                      IADC - Surface Stack: Fundamental & Supervisory Level
+                      IDAC - Surface Stack: Fundamental & Supervisory Level
                     </h5>
                     <h6 align="left">Duration : 5 Days</h6>
                   </p>

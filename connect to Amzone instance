@@ -10,4 +10,6 @@ yarn build
 to start website
 sudo pm2 start ./bin/www
 
+referance
+https://medium.com/@GalarnykMichael/aws-ec2-part-2-ssh-into-ec2-instance-c7879d47b6b2
 
