@@ -40,7 +40,7 @@ class HeaderDetails extends React.Component {
                 </div>
                 <div class="col-lg-6 col-sm-6 col-4 header-top-right no-padding">
                   <Link to="/" onClick={this.backtotop}>
-                    <span class="lnr lnr-phone-handset" /> <span class="text">+91-9619123321/+91-9004935111</span>
+                    <span class="lnr lnr-phone-handset" /> <span class="text">+91-9619123321/+91-9004935111/+91-9136370284</span>
                   </Link>
                   <Link to="/" onClick={this.backtotop}>
                     <span class="lnr lnr-envelope" /> <span class="text">info@vwcs.in</span>
