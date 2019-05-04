@@ -94,7 +94,7 @@ class AboutusPageBodyDetails_Second extends React.Component {
                   <p>
                     <h4 class="director-name">International Association of Drilling Contractors: WELLSHARP</h4>
 
-                    <h5>(IDAC: Certificate of Accreditation)</h5>
+                    <h5>(IADC: Certificate of Accreditation)</h5>
                   </p>
                 </div>
                 <div class="directorimg header-gap">
@@ -156,7 +156,7 @@ class AboutusPageBodyDetails_Second extends React.Component {
                   <p>
                     <h4 class="director-name">International Association of Drilling Contractors</h4>
 
-                    <h5>(IDAC: Certificate of Accreditation)</h5>
+                    <h5>(IADC: Certificate of Accreditation)</h5>
                   </p>
                 </div>
                 <div class="directorimg header-gap">
@@ -168,7 +168,7 @@ class AboutusPageBodyDetails_Second extends React.Component {
                   <p>
                     <h4 class="director-name">International Association of Drilling Contractors: RIGPASS</h4>
 
-                    <h5>(IDAC: Certificate of Accreditation)</h5>
+                    <h5>(IADC: Certificate of Accreditation)</h5>
                   </p>
                 </div>
               </div>

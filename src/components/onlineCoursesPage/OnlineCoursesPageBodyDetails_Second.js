@@ -26,7 +26,7 @@ class OnlineCoursesPageBodyDetails_Second extends React.Component {
                     <a href="http://www.oilschool.com/course/view.php?id=30">View Details</a>
                   </span>
                 </p>
-                <h4 align="left">IDAC course</h4>
+                <h4 align="left">IADC course</h4>
                 <p align="left">
                   - Drilling Well Control Introductory
                   <span class="study-link">

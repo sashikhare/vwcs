@@ -105,17 +105,17 @@ class HeaderDetails extends React.Component {
                       </li>
                       <li>
                         <Link to="/courseFive" onClick={this.backtotop}>
-                          IDAC - Surface Stack: Introductory Level
+                          IADC - Surface Stack: Introductory Level
                         </Link>
                       </li>
                       <li>
                         <Link to="/courseSix" onClick={this.backtotop}>
-                          IDAC - Surface Stack: Fundamental & Supervisory Level
+                          IADC - Surface Stack: Fundamental & Supervisory Level
                         </Link>
                       </li>
                       <li>
                         <Link to="/courseSeven" onClick={this.backtotop}>
-                          IDAC - Combined Surface & Subsea Stack: Fundamental & Supervisory Level
+                          IADC - Combined Surface & Subsea Stack: Fundamental & Supervisory Level
                         </Link>
                       </li>
                       <li>

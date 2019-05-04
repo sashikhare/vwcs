@@ -35,8 +35,8 @@ class CourseEightPageBodyDetails_Second extends React.Component {
                     <u>Course Objective</u>
                   </h4>
                   <p class="header-gap" align="justify">
-                    IDAC Accredited HSE Rig Pass program ensures that personnel have met basic requirements defined by safety and training
-                    professionals in the drilling industry, irrespective of the rig’s location. IDAC Rig Pass is designed to meet the
+                    IADC Accredited HSE Rig Pass program ensures that personnel have met basic requirements defined by safety and training
+                    professionals in the drilling industry, irrespective of the rig’s location. IADC Rig Pass is designed to meet the
                     requirement of to identify core elements of safety orientation programs for new rig employee.
                   </p>
                 </div>

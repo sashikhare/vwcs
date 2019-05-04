@@ -169,12 +169,12 @@ class CoursesPageBodyDetails_Second extends React.Component {
               <div class="details">
                 <Link to="/courseFive" onClick={this.backtotop}>
                   <h4>
-                    IDAC - Surface Stack
+                    IADC - Surface Stack
                     <p>Introductory Level</p>
                   </h4>
                 </Link>
                 <p align="justify">
-                  This course is strongly recommended for first time well control candidates and prior to taking IDAC Well Cap Course in
+                  This course is strongly recommended for first time well control candidates and prior to taking IADC Well Cap Course in
                   Fundamental Level & Supervisory Level.This help's the candidate to deal with most critical situations.
                 </p>
               </div>
@@ -200,13 +200,13 @@ class CoursesPageBodyDetails_Second extends React.Component {
               <div class="details">
                 <Link to="/courseSix" onClick={this.backtotop}>
                   <h4>
-                    IDAC - Surface Stack
+                    IADC - Surface Stack
                     <p>Fundamental & Supervisory Level</p>
                   </h4>
                 </Link>
 
                 <p align="justify">
-                  A secondary objective is to prepare participants for the IDAC Well Cap exams.Certification is given for Surface or
+                  A secondary objective is to prepare participants for the IADC Well Cap exams.Certification is given for Surface or
                   Combined Surface and Subsea
                 </p>
               </div>
@@ -231,7 +231,7 @@ class CoursesPageBodyDetails_Second extends React.Component {
               </div>
               <div class="details">
                 <Link to="/courseSeven" onClick={this.backtotop}>
-                  <h4>IDAC - Combined Surface & Subsea Stack: Fundamental & Supervisory Level</h4>
+                  <h4>IADC - Combined Surface & Subsea Stack: Fundamental & Supervisory Level</h4>
                 </Link>
                 <p>When television was young, there was a hugely popular show based on the still popular fictional characte</p>
               </div>

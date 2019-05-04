@@ -19,7 +19,7 @@ class CourseSevenPageBodyDetails_First extends React.Component {
         <div class="container">
           <div class="row d-flex align-items-center justify-content-center">
             <div class="about-content col-lg-12">
-              <h1 class="text-white">IDAC - Combined Surface & Subsea Stack: Fundamental & Supervisory Level</h1>
+              <h1 class="text-white">IADC - Combined Surface & Subsea Stack: Fundamental & Supervisory Level</h1>
               <p class="text-white link-nav">
                 <Link to="/">Home</Link> <span class="lnr lnr-arrow-right" /> <Link to="/courses">Schedule</Link>
               </p>

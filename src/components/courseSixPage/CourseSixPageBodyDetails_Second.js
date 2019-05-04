@@ -19,7 +19,7 @@ class CourseSixPageBodyDetails_Second extends React.Component {
           <div class="row d-flex justify-content-center">
             <div class="menu-content pb-80 col-lg-11">
               <div class="title text-center">
-                <h1 class="mb-10">IDAC Course</h1>
+                <h1 class="mb-10">IADC Course</h1>
 
                 <div>
                   <h4 align="left">
@@ -27,7 +27,7 @@ class CourseSixPageBodyDetails_Second extends React.Component {
                   </h4>
                   <p>
                     <h5 align="left" class="header-gap">
-                      IDAC - Surface Stack: Fundamental & Supervisory Level
+                      IADC - Surface Stack: Fundamental & Supervisory Level
                     </h5>
                     <h6 align="left">Duration : 5 Days</h6>
                   </p>
@@ -133,7 +133,7 @@ class CourseSixPageBodyDetails_Second extends React.Component {
                     <CourseSixPageBodyDetails_Third />
                   </p>
                   <p align="justify" class="date-note">
-                    * Dates are subject to change depending on IDAC's holidays.
+                    * Dates are subject to change depending on IADC's holidays.
                   </p>
                 </div>
               </div>
